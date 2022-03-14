@@ -1,0 +1,40 @@
+
+.contenedor{
+    position: relative;
+    margin: 300px 840px;
+    
+}
+h1{
+    color:#6E7777;
+    font-family:Helvetica;
+    font-size: 20px;
+    
+}
+p{
+    color:#6E7777;
+    font-family:Helvetica;
+    font-size: 30px;
+    position: relative;
+    margin: 0px 0px 10px 10px;
+}
+.datos{
+    border: solid 1px #d6d6d6;
+    border-radius:2px;
+    padding: 20px 40px 20px 40px;
+    margin: 5px;
+    font-family:Helvetica;
+    
+}
+.datos::placeholder{
+    position: relative;
+    left: -20px;
+}
+.btnnext{
+    
+    border: solid 1px #13AC60;
+    padding: 10px 50px 10px 50px;
+    margin: 10px 30px 0px 30px;
+    background-color: #13AC60;
+    color: white;
+    
+}
